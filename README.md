@@ -1,10 +1,13 @@
-# JavaScript Calculator
+# Calculator
 
 A simple web-based calculator built using HTML, CSS and JavaScript. Supports basic arithmetic operations through a clean, responsive interface.
 
-**Live Demo:** [https://amalk.au/calculator/](https://amalk.au/calculator/)
+
+## Live Demo: [https://amalk.au/calculator/](https://amalk.au/calculator/)
 
 ## Features
+
+![Calculator](./docs/screenshots/calculator.png)
 
 - Basic arithmetic operations (addition, subtraction, multiplication and division).
 
@@ -17,6 +20,8 @@ A simple web-based calculator built using HTML, CSS and JavaScript. Supports bas
 - Handles division by zero.
 
 - Responsive and user-friendly interface.
+
+
 
 ## Tech Stack
 
